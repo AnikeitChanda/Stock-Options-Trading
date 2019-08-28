@@ -1,7 +1,7 @@
 # Stock-Options-Trading
 Made for the Computational Investment Group at the University of Buffalo
 
-# Descriptions
+# Description
 `Option_Component.ipynb` utilizes the TDAmeritrade API to get option chains for a particular stock.
 These option chains are passed through a model to filter them based on custom parameters in order to generate recommendations for the user to advise them on which stock options to invest in.
 
